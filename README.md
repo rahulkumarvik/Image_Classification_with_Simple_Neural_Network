@@ -20,3 +20,5 @@ Achieved approximately 96.09% accuracy on the test dataset after 3 epochs.
 
 How to Run the Notebook
 Open in Google Colab and run all cells sequentially.
+
+(Coursera help me to complete this project)
